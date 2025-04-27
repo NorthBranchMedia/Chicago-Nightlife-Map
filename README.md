@@ -1,4 +1,4 @@
-![Chicago Nightlife Map Preview](Chicago_Nightlife_Map.png)
+![Chicago Nightlife Map Preview](Chicago Nightlife Map.png)
 
 # Chicago Nightlife Density Map
 
