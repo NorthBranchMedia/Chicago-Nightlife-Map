@@ -1,3 +1,5 @@
+![Chicago Nightlife Map Preview](Chicago_Nightlife_Map.png)
+
 # Chicago Nightlife Density Map
 
 This project visualizes the density of bars, pubs, breweries, and nightclubs across Chicago.
