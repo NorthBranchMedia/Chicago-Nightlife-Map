@@ -1,8 +1,9 @@
-# Chicago Nightlife Map 🗺️
+# Chicago Nightlife Map
 
 A minimalist map visualizing nightlife venue density across Chicago using OpenStreetMap data and Python.
 
-![Chicago Nightlife Map](Chicago%20Nightlife%20Map.png)
+![Chicago Nightlife Map](Chicago_Nightlife_Map.png)
+
 
 ---
 
